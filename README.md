@@ -20,6 +20,7 @@ This extension is open source and powered with the [3Cols API](https://docs.3col
 
 ### Commands
 `Please Note: Command shortcuts are not bound by default, but can be configured in Keyboard Shortcuts.`
+
 <img src="https://github.com/OliBlade/3ColsVSCode/blob/master/resources/keyBinding.png?raw=true" />
 
 #### Get Snippet
