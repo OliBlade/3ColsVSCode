@@ -14,10 +14,14 @@ This extension is open source and powered with the [3Cols API](https://docs.3col
 
 1. Install the 3Cols extension.
 2. Get your API Key from your [3Cols account page](https://3cols.com/account).
-3. Add your API Key to the 3Cols "Api Key" setting.
+<img src="https://github.com/OliBlade/3ColsVSCode/blob/master/resources/3ColsAccountApi.png?raw=true" />
+4. Add your API Key to the 3Cols "Api Key" setting.
+<img src="https://github.com/OliBlade/3ColsVSCode/blob/master/resources/apiKey.png?raw=true" />
 
 ### Commands
 `Please Note: Command shortcuts are not bound by default, but can be configured in Keyboard Shortcuts.`
+
+<img src="https://github.com/OliBlade/3ColsVSCode/blob/master/resources/keyBinding.png?raw=true" />
 
 #### Get Snippet
 > Available on right click, or in command pallet
