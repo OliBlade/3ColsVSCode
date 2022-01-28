@@ -8,6 +8,15 @@
   "engines": {
     "vscode": "^1.63.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OliBlade/3ColsVSCode.git"
+  },
+  "homepage": "https://github.com/OliBlade/3ColsVSCode/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/OliBlade/3ColsVSCode/issues",
+    "email": "support@3cols.com"
+  },
   "categories": [
     "Other",
     "Snippets"
