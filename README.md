@@ -6,6 +6,8 @@
 ***
 
 ## 3Cols Extension
+Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=3Cols.3cols-vscode).
+
 This Extension gives VSCode users the ability to insert, update and create 3Cols Snippets. This includes Snippets stored in Boards shared with the user via [3Cols sharing](https://docs.3cols.com/boards/sharingaboard).
 
 This extension is open source and powered with the [3Cols API](https://docs.3cols.com/api/apiintroduction).
